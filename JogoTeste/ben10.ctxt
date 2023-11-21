@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ben10
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Move\ one\ step\ forward.\r\n
+comment3.params=
+comment3.target=void\ turnLeft()
+comment3.text=\r\n\ Turn\ left\ by\ 90\ degrees.\r\n
+comment4.params=direction
+comment4.target=void\ setDirection(int)
+comment4.text=\r\n\ Set\ the\ direction\ we're\ facing.\ The\ 'direction'\ parameter\ must\r\n\ be\ in\ the\ range\ [0..3].\r\n
+comment5.params=
+comment5.target=void\ movimento()
+comment6.params=
+comment6.target=boolean\ canMove()
+comment6.text=\r\n\ Test\ if\ we\ can\ move\ forward.\ Return\ true\ if\ we\ can,\ false\ otherwise.\r\n
+numComments=7
